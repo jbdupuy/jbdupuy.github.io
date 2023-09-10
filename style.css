@@ -37,6 +37,7 @@ body {
 .links{
     margin: 25px 0px;
     text-align: center;
+    margin-left: 15px;
 }
 
 .links a{
