@@ -36,8 +36,6 @@ body {
 
 .links{
     margin: 25px 0px;
-    text-align: center;
-    margin-left: 15px;
 }
 
 .links a{
@@ -46,7 +44,7 @@ body {
     font-weight: 1000;
 }
 
-.bongo{
+.Richmond{
     display: flex;
     justify-content: center;
 }
