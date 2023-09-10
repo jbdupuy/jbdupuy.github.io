@@ -43,11 +43,9 @@ body {
     margin: 25px 0px;
 }
 
-.links a{
-    color: #599DD9;
-    display: inline;
-    font-weight: 1000;
-    padding: 0px 12px 0px 0px;
+.links img {
+    width: 32px; /* Adjust the width as needed */
+    height: 32px; /* Adjust the height as needed */
 }
 
 .links i{
