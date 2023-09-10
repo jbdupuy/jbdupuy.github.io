@@ -9,6 +9,10 @@ body {
     padding: 0;
 }
 
+.header-frame h1 {
+    font-size: 36px;
+}
+
 .container{
     width: 700px;
     margin: 30px auto;
