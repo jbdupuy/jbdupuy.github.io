@@ -10,7 +10,7 @@ body {
 }
 
 .header-frame h1 {
-    font-size: 44px;
+    font-size: 10px;
 }
 
 .container{
@@ -48,7 +48,7 @@ body {
     font-weight: 1000;
 }
 
-.Richmond{
+.bottom_image{
     display: flex;
     justify-content: center;
 }
