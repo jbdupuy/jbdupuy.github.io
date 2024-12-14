@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(233, 205, 168);
+}
+
+.bio-page {
+    background-color: rgb(233, 205, 168);
+    padding: 2rem 0;
+}
+
+.return-home {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.return-home .btn {
+    font-size: 1rem;
+    font-weight: bold;
+    border: 2px solid rgb(108, 57, 14);
+    color: rgb(108, 57, 14);
+    background-color: white;
+    padding: 8px 15px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+    text-decoration: none;
+}
+
+.return-home .btn:hover {
+    background-color: rgb(108, 57, 14);
+    color: white;
+}
+
+.bio-title {
+    color: rgb(108, 57, 14);
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 2rem;
+}
+
+.bio-photo {
+    border: 2px solid rgb(108, 57, 14);
+}
+
+.bio-text {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    text-align: left;
+    color: black;
+}
+
+.bio-gif {
+    max-width: 100%;
+    height: auto;
+    border: 2px solid rgb(108, 57, 14);
+    border-radius: 8px;
+}
